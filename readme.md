@@ -1,4 +1,6 @@
-### Hi there 👋 Nice to see u.
+[![image](https://i1.wp.com/i.giphy.com/media/uZ2aaJ5SZ8Pvdw0NXD/giphy.gif)](#)
+
+# Hi there 👋 Nice to see u.
 
 - 😄 My name is: silalai Rakkhaphai
 - ⚡ Student id: 63366219
