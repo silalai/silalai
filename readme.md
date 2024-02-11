@@ -3,9 +3,8 @@
 # Hi there 👋 Nice to see u.
 
 - 😄 My name is: silalai Rakkhaphai
-- ⚡ Student id: 63366219
 - 🔭 I'm currently studying on Faculty of Engineering.
-- 👷🏻‍♀️ Career interest in the future: Application Developer, Web Developer
+- 👷🏻‍♀️ Career interest in the future: Application Developer, Web Developer, Front-End Developer
 
 ## Developer Tech
 
